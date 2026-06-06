@@ -40,7 +40,7 @@ pkg install curl python -y
 Perintah ini akan mengunduh script utama dan menempatkannya langsung ke direktori eksekusi global agar bisa dipanggil dari mana saja:
 
 ```bash
-curl -L -o "$PREFIX/bin/T-Backup" "https://raw.githubusercontent.com/Mindsetmot/Telegram-Backup-Storage/main/T-Backup.sh"
+curl -L -o "$PREFIX/bin/T-Backup" "https://raw.githubusercontent.com/Mindsetmot/Telegram-Backup-Storage/main/T-Backup"
 
 ```
 
